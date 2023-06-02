@@ -57,7 +57,23 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 ```
 ## Output:
+## Result output:
+![image](https://github.com/SOMEASVAR/Implementation-of-SVM-For-Spam-Mail-Detection/assets/93434149/a0a7555c-4e60-42e3-86e7-191dd5abfe56)
 
+## data.head():
+![image](https://github.com/SOMEASVAR/Implementation-of-SVM-For-Spam-Mail-Detection/assets/93434149/4df96069-0db7-4dcf-9534-3d86729bd44b)
+
+## data.info():
+![image](https://github.com/SOMEASVAR/Implementation-of-SVM-For-Spam-Mail-Detection/assets/93434149/8c0adfe4-99b4-4569-9031-92bb35353c9f)
+
+## data.isnull().sum():
+![image](https://github.com/SOMEASVAR/Implementation-of-SVM-For-Spam-Mail-Detection/assets/93434149/c56e6b67-f951-4110-a884-1af465120bcd)
+
+## Y_prediction value:
+![image](https://github.com/SOMEASVAR/Implementation-of-SVM-For-Spam-Mail-Detection/assets/93434149/34d6d9ad-d8f7-4a4e-87c3-b309d5d13246)
+
+## Accuracy value:
+![image](https://github.com/SOMEASVAR/Implementation-of-SVM-For-Spam-Mail-Detection/assets/93434149/b624946f-5540-4ab5-9ef1-45f048a4f381)
 
 
 ## Result:
